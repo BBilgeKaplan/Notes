@@ -27,11 +27,17 @@ Kullanılmaması Gereken Durumlar: Muhasebe ve finans gibi yüksek derecede norm
 MongoDB: NoSQL veritabanları arasında popülerdir. Büyük verilerin işlenmesi ve ölçeklenmesi için kullanılır (Facebook, Uber, Netflix gibi firmalar MongoDB kullanmaktadır).  
 Redis: Anahtar-değer yapısına dayalı bir bellek içi veritabanı olup, hızlı veri sorgulamaları gerektiren durumlarda kullanılır.
 
+![image](https://github.com/user-attachments/assets/d280cbc9-0033-458c-8b1e-1c14ca536df9)
+
+
 ## 6. Diğer NoSQL Veritabanları:
 
 Cassandra: Geniş sütun odaklı veritabanı, yüksek ölçeklenebilirlik ve erişilebilirlik sağlar.  
 Neo4j: Grafik tabanlı bir veritabanıdır, sosyal ağ analizleri ve öneri sistemlerinde kullanılır.  
 Amazon DynamoDB: Amazon tarafından sunulan bir NoSQL veritabanıdır, özellikle AWS tabanlı uygulamalarda kullanılır.  
+
+![image](https://github.com/user-attachments/assets/b7e68c81-7178-461c-bf54-8d6f64f11d01)
+
 
 # Çalışma Soruları
 
