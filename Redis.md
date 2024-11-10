@@ -58,7 +58,13 @@ Veriler RAM’de saklandığı için büyük veri kümeleriyle çalışırken RA
 Redis bir query dili yerine basit komutlar kullanır, bu da esneklik kaybına yol açabilir.
 
 ### Sınırlı Güvenlik
-Redis yalnızca temel güvenlik sağlar; gelişmiş güvenlik gereksinimleri karşılanamaz.
+Redis yalnızca temel güvenlik sağlar; gelişmiş güvenlik gereksinimleri karşılanamaz.  
+
+![image](https://github.com/user-attachments/assets/233fe6b3-11c8-476e-95a2-c92749431ccf)  
+
+
+![image](https://github.com/user-attachments/assets/3e8ae59b-6fce-4bc8-a5ba-a192b4fcdb80)
+
 
 ## Çalışma Soruları 
 
